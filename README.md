@@ -23,9 +23,9 @@ To install the contents of this directory do the following:
 <img width="470" alt="Open with Live Server" src="https://github.com/user-attachments/assets/f6b5cab4-873d-45a6-8714-609bbd46d85c">
 
 3. The website will now be open in your computer's default browser
-<img width="1440" alt="Website" src="https://github.com/user-attachments/assets/b7dbbe38-7208-45ef-862f-0d148eed619d">
+<img width="720" alt="Website" src="https://github.com/user-attachments/assets/b7dbbe38-7208-45ef-862f-0d148eed619d">
 
 
 **3. Credits**
-Frontend Development: Keeden
-Design: Keeden
+> Frontend Development: _Keeden_
+> Design: _Keeden_
