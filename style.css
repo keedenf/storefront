@@ -1,0 +1,103 @@
+#logo{
+    width: 100px;
+}
+
+#header{
+    background-image: url(Assets/lounge1.jpg);
+    background-size: cover;
+}
+
+#catalogue-button:hover{
+    background-color: #6a6a6acb;
+    border-color: black;
+    color: white;
+}
+
+#catalogue-button:active{
+    background-color: black;
+    color: white;
+}
+
+#who-are-we{
+    background-color: #1e340c;
+    color: white;
+    text-shadow: 0 0 20px rgb(3, 24, 1);
+}
+
+#image-text{
+    text-shadow: 0 0 20px black;
+}
+
+#button{
+    background-color: #1e340c;
+    color: #fff;
+    border: none;
+}
+
+#button:hover{
+    background-color: #627f4b; 
+    color: #fff;
+    border: none;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 20px rgb(210, 210, 210);
+}
+
+#contact-us{
+    z-index: 1;
+    border: 1px solid;
+    border-radius: 25px;
+    margin: auto;
+    background-color: white;
+    width: 300px;
+    height: 520px;
+    transform: translateY(50px);
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-us:hover{
+    box-shadow: 0 0 50px rgb(242, 242, 242);
+    transform: scale(1.02);
+    transition: transform 0.2s ease-in-out;
+}
+
+#dark-logo{
+    width: 80px;
+}
+
+input{
+    height: 25px;
+    border: solid 1px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#submit-button{
+    background-color: #1e340c;
+    border: #1e340c;
+}
+
+#reset-button{
+    background-color: #1e340c;
+    border: #1e340c;
+}
+
+#submit-button:hover{
+    background-color: #627f4b;
+    border: #1e340c;
+}
+
+#reset-button:hover{
+    background-color: #627f4b;
+    border: #1e340c;
+}
+
+#foot{
+    height: 100px;
+}
