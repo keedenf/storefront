@@ -17,11 +17,14 @@ To install the contents of this directory do the following:
 
 **2. Usage**
 1. Install the "Live Server" extension from the extensions tab in VSCode
-![Uploading Live Server extention.png…]()
+<img width="342" alt="Live Server extention" src="https://github.com/user-attachments/assets/832f64c4-9fd1-44af-9bcc-74243c0efd61">
+
 2. Right-click on the "index.html" file located in the local directory and select "Open with Live Server" in the pop-up menu
-![Uploading Open with Live Server.png…]()
-4. The website will now be open in your computer's default browser
+<img width="470" alt="Open with Live Server" src="https://github.com/user-attachments/assets/f6b5cab4-873d-45a6-8714-609bbd46d85c">
+
+3. The website will now be open in your computer's default browser
 <img width="1440" alt="Website" src="https://github.com/user-attachments/assets/b7dbbe38-7208-45ef-862f-0d148eed619d">
+
 
 **3. Credits**
 Frontend Development: Keeden
