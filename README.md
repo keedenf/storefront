@@ -27,5 +27,5 @@ To install the contents of this directory do the following:
 
 
 **3. Credits**
-> Frontend Development: _Keeden_
-> Design: _Keeden_
+> * Frontend Development: _Keeden_
+> * Design: _Keeden_
